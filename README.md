@@ -108,10 +108,7 @@ CREATE TABLE account (
     balance DOUBLE
 );
 
-
-(You can extend schema with user authentication fields.)
-
-Open project in IDE (IntelliJ/Eclipse/NetBeans).
+Open project in IDE IntelliJ.
 
 Add JAR dependencies (if not already linked):
 
@@ -120,7 +117,7 @@ mysql-connector-java-8.0.28.jar
 jcalendar-tz-1.3.3-4.jar
 
 Run the application:
-Execute main_Class.java or Main.java.
+Execute main_Class.java.
 
 🛠️ Technologies Used
 
@@ -136,7 +133,10 @@ Git → Version Control
 
 📸 Screenshots
 
-(Optional: Add GUI screenshots here for Login, Signup, Deposit, Withdraw, Balance Enquiry)
+<img width="1907" height="1016" alt="image" src="https://github.com/user-attachments/assets/299dc8b7-74cb-4d18-92b1-40800db48c91" />
+<img width="1902" height="1016" alt="image" src="https://github.com/user-attachments/assets/e84e0247-5e9d-4516-b1e7-551f91d7d09b" />
+
+
 
 👨‍💻 Author
 
